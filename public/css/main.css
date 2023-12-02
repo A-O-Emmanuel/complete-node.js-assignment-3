@@ -1,0 +1,8 @@
+a:hover {
+    color: blue;
+    cursor: pointer;
+}
+
+a:active{
+    color: green;
+}
